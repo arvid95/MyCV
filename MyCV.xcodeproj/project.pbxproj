@@ -16,6 +16,7 @@
 		8764D71D2387D4D9002FAA66 /* MyCVUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8764D71C2387D4D9002FAA66 /* MyCVUITests.swift */; };
 		8764D7332387EBBB002FAA66 /* CVViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8764D7322387EBBB002FAA66 /* CVViewController.swift */; };
 		8764D73B2387F9C8002FAA66 /* ExperienceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8764D73A2387F9C8002FAA66 /* ExperienceViewController.swift */; };
+		8764D73D23880483002FAA66 /* ExperienceDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8764D73C23880483002FAA66 /* ExperienceDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		8764D71E2387D4D9002FAA66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8764D7322387EBBB002FAA66 /* CVViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CVViewController.swift; sourceTree = "<group>"; };
 		8764D73A2387F9C8002FAA66 /* ExperienceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperienceViewController.swift; sourceTree = "<group>"; };
+		8764D73C23880483002FAA66 /* ExperienceDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExperienceDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				8764D7082387D4D9002FAA66 /* Info.plist */,
 				8764D7322387EBBB002FAA66 /* CVViewController.swift */,
 				8764D73A2387F9C8002FAA66 /* ExperienceViewController.swift */,
+				8764D73C23880483002FAA66 /* ExperienceDetailViewController.swift */,
 			);
 			path = MyCV;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8764D73B2387F9C8002FAA66 /* ExperienceViewController.swift in Sources */,
+				8764D73D23880483002FAA66 /* ExperienceDetailViewController.swift in Sources */,
 				8764D7332387EBBB002FAA66 /* CVViewController.swift in Sources */,
 				8764D6FB2387D4D7002FAA66 /* AppDelegate.swift in Sources */,
 				8764D6FD2387D4D7002FAA66 /* SceneDelegate.swift in Sources */,
